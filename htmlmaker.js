@@ -19,7 +19,6 @@ var Tag = function(name, attr) {
                 _class.push(arguments[arg]);
             }
         }
-        console.log(_class);
         return this;
     };
 
