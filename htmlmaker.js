@@ -68,10 +68,6 @@ var Tag = function(name, attr) {
         return res;
     };
 
-    that.show_subs = function() {
-        return _subs;
-    };
-
     return that;
 }
 
